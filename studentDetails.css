@@ -1,0 +1,24 @@
+
+div {
+  background-color: rgb(176, 235, 82);
+  width: 500px;
+  border: 9px solid green;
+  padding: 40px;
+  margin-left: 25%;
+  
+
+}
+button{
+  margin-left:30%;
+ background-color: rgb(96, 208, 216);
+}
+h1{
+  margin-left: 20%;
+}
+input{
+  margin-left: 50px;
+  
+}
+select{
+  margin-left: 50px;
+}
